@@ -12,77 +12,77 @@
     "miktar": "1kg",
     "fiyat": "₺8",
     "gorsel": "https://raw.githubusercontent.com/developermstf01/bereketmarket/main/nohut.jpg"
-  }
+  },
   {
     "isim": "Makarna",
     "tur": "Temel Gıda",
     "miktar": "500gr",
     "fiyat": "₺3",
     "gorsel": "https://raw.githubusercontent.com/developermstf01/bereketmarket/main/makarna.jpg"
-  }
+  },
   {
     "isim": "Çekirdek",
     "tur": "Atıştırmalık",
     "miktar": "1kg",
     "fiyat": "₺10",
     "gorsel": "https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cekirde.jpg"
-  }
+  },
   {
     "isim": "Çerezza",
     "tur": "Atıştırmalık",
     "miktar": "1adet",
     "fiyat": "₺3",
     "gorsel": "https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cerezza.jpg"
-  }
+  },
   {
     "isim": "Diş Macunu",
     "tur": "Kişisel Bakım",
     "miktar": "1adet",
     "fiyat": "₺12",
     "gorsel": "https://raw.githubusercontent.com/developermstf01/bereketmarket/main/dismacunu.jpg"
-  }
+  },
   {
     "isim": "Hacışakir Sabun",
     "tur": "Kişisel Bakım",
     "miktar": "1adet",
     "fiyat": "₺4",
     "gorsel": "https://raw.githubusercontent.com/developermstf01/bereketmarket/main/hacisakirsabun.jpg"
-  }
+  },
   {
     "isim": "Yumurta",
     "tur": "Kahvaltılık",
     "miktar": "1kep",
     "fiyat": "₺15",
     "gorsel": "https://raw.githubusercontent.com/developermstf01/bereketmarket/main/yumurta.jpg"
-  }
+  },
   {
     "isim": "Peynir",
     "tur": "Kahvaltılık",
     "miktar": "1kg",
     "fiyat": "₺20",
     "gorsel": "https://raw.githubusercontent.com/developermstf01/bereketmarket/main/peynir.jpg"
-  }
+  },
   {
     "isim": "Vernel",
     "tur": "Ev Bakım",
     "miktar": "5kg",
     "fiyat": "₺30",
     "gorsel": "https://raw.githubusercontent.com/developermstf01/bereketmarket/main/vernel.jpg"
-  }
+  },
   {
     "isim": "Pril",
     "tur": "Ev Bakım",
     "miktar": "1litre",
     "fiyat": "₺4,5",
     "gorsel": "https://raw.githubusercontent.com/developermstf01/bereketmarket/main/pril.png"
-  }
+  },
   {
     "isim": "Şarj Aleti",
     "tur": "Teknoloji",
     "miktar": "1adet",
     "fiyat": "₺12,5",
     "gorsel": "https://raw.githubusercontent.com/developermstf01/bereketmarket/main/sarjaleti.jpg"
-  }
+  },
   {
     "isim": "Kulaklık",
     "tur": "Teknoloji",
